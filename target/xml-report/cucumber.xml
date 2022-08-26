@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.83">
+    <testcase classname="US1001 Kullanici Hepsiburada Sayfasinda Arama Yapar" name="TC01 kullanici hepsiburada'da iPhone aratir" time="12.729">
+        <system-out>
+            <![CDATA[Given Kullanici hepsiburada.com sitesini ziyaret eder.......................passed
+Then Kullanici iPhone icin arama islemi yapar...............................passed
+And Kullanici arama sonucunda gelen urun listesinden urun secer ve urun detay sayfasina gider..passed
+And Kullanici secilen urun için urun detayda “Yorumlar” tabina gider........passed
+And Kullanici gelen yorumlar icerisinde ilk yorumun “Evet” butonuna basar...passed
+And Kullanici “Teşekkür Ederiz” yazisini gorur..............................passed
+And Kullanici eger yorumlar tab’inda hic yorum gelmiyorsa herhangi bir islem yapmaz..passed
+And Kullanici sayfayi kapatir...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

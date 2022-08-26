@@ -1,0 +1,5 @@
+pages\HepsiburadaPage.class
+runners\Runner.class
+stepDefinitions\HepsiburadaStepDefinitions.class
+utilities\Driver.class
+utilities\ConfigReader.class
