@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.83">
-    <testcase classname="US1001 Kullanici Hepsiburada Sayfasinda Arama Yapar" name="TC01 kullanici hepsiburada'da iPhone aratir" time="12.729">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.463">
+    <testcase classname="US1001 Kullanici Hepsiburada Sayfasinda Arama Yapar" name="TC01 kullanici hepsiburada'da iPhone aratir" time="22.315">
         <system-out>
             <![CDATA[Given Kullanici hepsiburada.com sitesini ziyaret eder.......................passed
 Then Kullanici iPhone icin arama islemi yapar...............................passed

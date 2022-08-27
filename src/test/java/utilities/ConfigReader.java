@@ -13,15 +13,11 @@ public class ConfigReader {
         try {
             FileInputStream fis=new FileInputStream(dosyaYolu);
             properties=new Properties();
-            properties.load(fis); // fis'in okudugu bilgileri properties'e yukledi
-
-
-
+            properties.load(fis);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
-
     public static String getProperty(String key){
 
         return properties.getProperty(key);
